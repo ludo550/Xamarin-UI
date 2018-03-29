@@ -1,0 +1,6 @@
+c:\Users\Lionel\documents\visual studio 2015\Projects\UITest2\Xam_Proj_Global\bin\Debug\Xam_Proj_Global.dll
+c:\Users\Lionel\documents\visual studio 2015\Projects\UITest2\Xam_Proj_Global\bin\Debug\Xam_Proj_Global.pdb
+c:\Users\Lionel\documents\visual studio 2015\Projects\UITest2\Xam_Proj_Global\bin\Debug\nunit.framework.dll
+c:\Users\Lionel\documents\visual studio 2015\Projects\UITest2\Xam_Proj_Global\bin\Debug\Xamarin.UITest.dll
+c:\Users\Lionel\documents\visual studio 2015\Projects\UITest2\Xam_Proj_Global\obj\Debug\Xam_Proj_Global.dll
+c:\Users\Lionel\documents\visual studio 2015\Projects\UITest2\Xam_Proj_Global\obj\Debug\Xam_Proj_Global.pdb

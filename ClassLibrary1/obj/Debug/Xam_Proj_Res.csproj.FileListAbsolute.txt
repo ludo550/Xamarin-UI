@@ -1,0 +1,10 @@
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\ClassLibrary1\obj\Debug\Xam_Proj_Res.csprojResolveAssemblyReference.cache
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\ClassLibrary1\obj\Debug\ClassLibrary1.Res_Env.resources
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\ClassLibrary1\obj\Debug\Xam_Proj_Res.csproj.GenerateResource.Cache
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\ClassLibrary1\bin\Debug\Xamarin.UITest.dll
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\ClassLibrary1\bin\Debug\Xamarin.UITest.xml
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\ClassLibrary1\obj\Debug\ClassLibrary1.TestDrivenSteps.Login_Xam_Fail.resources

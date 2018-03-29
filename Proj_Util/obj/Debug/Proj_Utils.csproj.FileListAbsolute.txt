@@ -1,0 +1,8 @@
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\Proj_Util\bin\Debug\Proj_Util.dll
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\Proj_Util\bin\Debug\Proj_Util.pdb
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\Proj_Util\bin\Debug\ExtentReports.dll
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\Proj_Util\bin\Debug\Xamarin.UITest.dll
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\Proj_Util\obj\Debug\Proj_Utils.csprojResolveAssemblyReference.cache
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\Proj_Util\obj\Debug\Proj_Util.dll
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\Proj_Util\obj\Debug\Proj_Util.pdb
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\Proj_Util\bin\Debug\Xamarin.UITest.xml

@@ -1,0 +1,6 @@
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\Xam_Proj_Pages\bin\Debug\Xam_Proj_Pages.dll
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\Xam_Proj_Pages\bin\Debug\Xam_Proj_Pages.pdb
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\Xam_Proj_Pages\obj\Debug\Xam_Proj_Pages.csprojResolveAssemblyReference.cache
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\Xam_Proj_Pages\obj\Debug\Xam_Proj_Pages.dll
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\Xam_Proj_Pages\obj\Debug\Xam_Proj_Pages.pdb
+C:\Users\Lionel\Documents\Visual Studio 2015\Projects\UITest2\Xam_Proj_Pages\bin\Debug\test-cloud.exe
